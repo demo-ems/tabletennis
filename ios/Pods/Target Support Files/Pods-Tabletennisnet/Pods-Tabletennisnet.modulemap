@@ -1,0 +1,6 @@
+module Pods_Tabletennisnet {
+  umbrella header "Pods-Tabletennisnet-umbrella.h"
+
+  export *
+  module * { export * }
+}

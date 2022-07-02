@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tabletennisnet.iml" filepath="$PROJECT_DIR$/.idea/modules/Tabletennisnet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Tabletennisnet.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Tabletennisnet.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1623076244/Tabletennisnet.react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/1623076244/Tabletennisnet.react-native-async-storage_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/929723712/Tabletennisnet.react-native-community_datetimepicker.iml" filepath="$PROJECT_DIR$/.idea/modules/929723712/Tabletennisnet.react-native-community_datetimepicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1118561345/Tabletennisnet.react-native-document-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/1118561345/Tabletennisnet.react-native-document-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1728277968/Tabletennisnet.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-1728277968/Tabletennisnet.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1859129784/Tabletennisnet.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-1859129784/Tabletennisnet.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-445327334/react-native-gradle-plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/-445327334/react-native-gradle-plugin.iml" />
+    </modules>
+  </component>
+</project>
